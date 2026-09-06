@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-um-cs-001-the-unique-games-conjecture-072d7c9c`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1359435926`
+- Repository node ID: `R_kgDOUQdYlg`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
+- Canonical Problem: `problem:um-cs-001-the-unique-games-conjecture-072d7c9c`
+- ProblemContract SHA-256: `f5a22c92826f8bd41d88b332c00bc77b65be29336ef3c82cadab66adf08ddbf6`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
 - Harness suite: `harness-source:web-research-full` `1.1.3`
 - Suite manifest SHA-256: `873d54ccacba84d38d491a10fbf185495a7cfa53dc41e91a3ba680f726d54400`
-- Harness snapshot SHA-256: `480e6d737bf046c6eebfa084773e4e109f9b14c67f1dd20a1103ef1ca6f4ffbe`
+- Harness snapshot SHA-256: `81df77bd0cb87a04893e6e4d3ef0a5a724250bf49e2627a5cd00126f9c01ae6f`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
